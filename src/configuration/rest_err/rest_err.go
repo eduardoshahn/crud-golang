@@ -4,6 +4,7 @@ import (
 	"net/http"
 )
 
+// Criação do Objeto RestErr
 type RestErr struct {
 	Message string `json:"message"`
 	Err string `json:"error"`

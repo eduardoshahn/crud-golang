@@ -1,6 +1,6 @@
 module github.com/eduardoshahn/crud-golang.git
 
-go 1.21.4
+go 1.21
 
 require (
 	github.com/bytedance/sonic v1.11.3 // indirect
